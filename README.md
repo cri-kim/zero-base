@@ -10,9 +10,9 @@
 > 검색을 하다보니 시간이 부족해서 많이 못풀었어요.    
 
 ### 학습 스케줄표
-- 1일차
-  - [HTML 개요](https://github.com/cri-kim/zero-base/blob/main/til/day01.md)
-- 2일차
+- [1일차](https://github.com/cri-kim/zero-base/blob/main/til/day01.md)
+  - HTML 개요
+- [2일차](https://github.com/cri-kim/zero-base/blob/main/til/day02.md)
   - 실습환경 셋팅
   - 메타데이터 요소
   - 텍스트 요소
