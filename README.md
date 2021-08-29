@@ -16,49 +16,49 @@
   - 실습환경 셋팅
   - 메타데이터 요소
   - 텍스트 요소
-- 3일차
+- [3일차](https://github.com/cri-kim/zero-base/blob/main/til/day03.md)
   - 구조를 나타내는 요소
   - 목록과 표
-- 4일차
+- [4일차](https://github.com/cri-kim/zero-base/blob/main/til/day04.md)
   - 임베디드 요소
   - 폼 관련 요소
-- 5일차
+- [5일차](https://github.com/cri-kim/zero-base/blob/main/til/day05.md)
   - 전역 속성
-- 6일차
+- [6일차](https://github.com/cri-kim/zero-base/blob/main/til/day06.md)
   - 정기 테스트
   - 개인복습
-- 7일차
+- [7일차](https://github.com/cri-kim/zero-base/blob/main/til/day07.md)
   - 개인복습
-- 8일차
+- [8일차](https://github.com/cri-kim/zero-base/blob/main/til/day08.md)
   - 개인복습
-- 9일차
+- [9일차](https://github.com/cri-kim/zero-base/blob/main/til/day09.md)
   - 미션 마감
   - 개인복습
-- 10일차
+- [10일차](https://github.com/cri-kim/zero-base/blob/main/til/day10.md)
   - CSS 개요 선택자
-- 11일차
+- [11일차](https://github.com/cri-kim/zero-base/blob/main/til/day11.md)
   - 폰트/텍스트 관련 속성
   - 단위와 값
   - 박스 모델
-- 12일차
+- [12일차](https://github.com/cri-kim/zero-base/blob/main/til/day12.md)
   - 레이아웃 색상과 배경
-- 13일차
+- [13일차](https://github.com/cri-kim/zero-base/blob/main/til/day13.md)
   - 정기 테스트
   - Transform
   - Transition 애니메이션
-- 14일차
+- [14일차](https://github.com/cri-kim/zero-base/blob/main/til/day14.md)
   - Flexbox
   - Grid 반응형 디자인
-- 15일차
+- [15일차](https://github.com/cri-kim/zero-base/blob/main/til/day15.md)
   - 개인복습
-- 16일차
+- [16일차](https://github.com/cri-kim/zero-base/blob/main/til/day16.md)
   - 개인복습
-- 17일차
+- [17일차](https://github.com/cri-kim/zero-base/blob/main/til/day17.md)
   - 개인복습
-- 18일차
+- [18일차](https://github.com/cri-kim/zero-base/blob/main/til/day18.md)
   - 개인복습
-- 19일차
+- [19일차](https://github.com/cri-kim/zero-base/blob/main/til/day19.md)
   - 개인복습
-- 20일차
+- [20일차](https://github.com/cri-kim/zero-base/blob/main/til/day20.md)
   - 정기 테스트
   - 개인복습
