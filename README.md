@@ -26,29 +26,29 @@
   - 전역 속성
 - [6일차](https://github.com/cri-kim/zero-base/blob/main/til/day06.md)
   - 정기 테스트
-  - 개인복습
+  - CSS 개요
 - [7일차](https://github.com/cri-kim/zero-base/blob/main/til/day07.md)
-  - 개인복습
+  - CSS 선택자(셀렉터)
 - [8일차](https://github.com/cri-kim/zero-base/blob/main/til/day08.md)
-  - 개인복습
-- [9일차](https://github.com/cri-kim/zero-base/blob/main/til/day09.md)
-  - 미션 마감
-  - 개인복습
-- [10일차](https://github.com/cri-kim/zero-base/blob/main/til/day10.md)
-  - CSS 개요 선택자
-- [11일차](https://github.com/cri-kim/zero-base/blob/main/til/day11.md)
   - 폰트/텍스트 관련 속성
   - 단위와 값
   - 박스 모델
-- [12일차](https://github.com/cri-kim/zero-base/blob/main/til/day12.md)
+- [9일차](https://github.com/cri-kim/zero-base/blob/main/til/day09.md)
   - 레이아웃 색상과 배경
-- [13일차](https://github.com/cri-kim/zero-base/blob/main/til/day13.md)
-  - 정기 테스트
+  - 미션 마감
+- [10일차](https://github.com/cri-kim/zero-base/blob/main/til/day10.md)
   - Transform
   - Transition 애니메이션
-- [14일차](https://github.com/cri-kim/zero-base/blob/main/til/day14.md)
+- [11일차](https://github.com/cri-kim/zero-base/blob/main/til/day11.md)
   - Flexbox
   - Grid 반응형 디자인
+- [12일차](https://github.com/cri-kim/zero-base/blob/main/til/day12.md)
+  - 개인복습
+- [13일차](https://github.com/cri-kim/zero-base/blob/main/til/day13.md)
+  - 정기 테스트
+  - 개인복습
+- [14일차](https://github.com/cri-kim/zero-base/blob/main/til/day14.md)
+  - 개인복습
 - [15일차](https://github.com/cri-kim/zero-base/blob/main/til/day15.md)
   - 개인복습
 - [16일차](https://github.com/cri-kim/zero-base/blob/main/til/day16.md)
