@@ -32,19 +32,21 @@
 - [8일차](https://github.com/cri-kim/zero-base/blob/main/til/day08.md)
   - 폰트/텍스트 관련 속성
   - 단위와 값
-  - 박스 모델
 - [9일차](https://github.com/cri-kim/zero-base/blob/main/til/day09.md)
-  - 레이아웃 색상과 배경
+  - 박스 모델
   - 미션 마감
 - [10일차](https://github.com/cri-kim/zero-base/blob/main/til/day10.md)
-  - Transform
-  - Transition 애니메이션
+  - 레이아웃
+  - 색상과 배경
 - [11일차](https://github.com/cri-kim/zero-base/blob/main/til/day11.md)
-  - Flexbox
-  - Grid 반응형 디자인
+  - Transform
+  - Transition 
 - [12일차](https://github.com/cri-kim/zero-base/blob/main/til/day12.md)
+  - 애니메이션
+  - Flexbox
   - 개인복습
 - [13일차](https://github.com/cri-kim/zero-base/blob/main/til/day13.md)
+  - Grid 반응형 디자인
   - 정기 테스트
   - 개인복습
 - [14일차](https://github.com/cri-kim/zero-base/blob/main/til/day14.md)
