@@ -66,9 +66,50 @@
 ```
 ## 활용
 > 공과 bascket을 만들어 애니메이션을 활용해 보았습니다.
-> 배경에 불이 붙는다던지, 사람이 움직이는 것 혹은 핸드폰이 움직이는 것과 같은 광고 효과를 만들어보는 것도 좋을 것 같습니다.
+> 배경에 불이 붙는다던지, 사람이 움직이는 것 혹은 핸드폰이 움직이는 것과 같은 광고 효과를 만들어보는 것도 좋을 것 같습니다.  
+- 애니메이션 활용
 https://cri-kim.github.io/portfolio
+- CSS 일부
+```
+.goal {
+  position: relative;
+  top:calc(100% - 10px);
+  left:calc(100% - 10px);
+  border-radius: 10px 10px 100% 100%;
+  width:50px;
+  height:50px;
+  border: gray 1px solid;
+  background-color:gray;
 
+  animation: showGoal 4s 1s infinite;
+}
+@keyframes showGoal {
+ from{width:0px; height:0px;}
+ to{width:50px; height:50px;}
+}
+.ball {
+  position: relative;
+  top:20px;
+  left:20px;
+  border: 1px solid #0070f3;
+  border-radius: 30px;
+  width:30px;
+  height:30px;
+  background-color:#0070f3;
+
+  animation: moveBall 4s 1s infinite;
+}
+
+@keyframes moveBall {
+ 0%{top:0px; left:0px;}
+ 30%{top:60%; left:40%;}
+ 10% {top:30%; left:30%;}
+ 50% {top:30%; left:45%;}
+ 60%{top:50%; left:60%;}
+ 80%{top:30%; left:80%;}
+ 100%{top:100%; left:100%;}
+}
+```
 # 참고
 [제로베이스](https://zero-base.co.kr)
 [MDM](https://developer.mozilla.org/)
