@@ -42,9 +42,8 @@
   - 개인복습
 - [14일차](https://github.com/cri-kim/zero-base/blob/main/til/day14.md)
   - Grid 반응형 디자인
-  - 개인복습
 - [15일차](https://github.com/cri-kim/zero-base/blob/main/til/day15.md)
-  - 개인복습
+  - React(Tooling, 개발환경 설정, JSX)
 - [16일차](https://github.com/cri-kim/zero-base/blob/main/til/day16.md)
   - 개인복습
 - [17일차](https://github.com/cri-kim/zero-base/blob/main/til/day17.md)
