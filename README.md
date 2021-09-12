@@ -45,12 +45,15 @@
 - [15일차](https://github.com/cri-kim/zero-base/blob/main/til/day15.md)
   - React(Tooling, 개발환경 설정, JSX)
 - [16일차](https://github.com/cri-kim/zero-base/blob/main/til/day16.md)
-  - 개인복습
+  - React(리액트 학습동기, 브라우저의 동작 원리, 리액트 컴포넌트, props와 state)
 - [17일차](https://github.com/cri-kim/zero-base/blob/main/til/day17.md)
+  - React(LifeCycle API, input 상태 관리하기)
   - 개인복습
 - [18일차](https://github.com/cri-kim/zero-base/blob/main/til/day18.md)
+  - React(배열다루기, 불변성)
   - 개인복습
 - [19일차](https://github.com/cri-kim/zero-base/blob/main/til/day19.md)
+  - React(컴포넌트 스타일링)
   - 개인복습
 - [20일차](https://github.com/cri-kim/zero-base/blob/main/til/day20.md)
   - 정기 테스트
