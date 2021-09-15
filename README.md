@@ -53,7 +53,6 @@
   - React(배열다루기, 불변성)
   - 개인복습
 - [19일차](https://github.com/cri-kim/zero-base/blob/main/til/day19.md)
-  - React(컴포넌트 스타일링)
   - 개인복습
 - [20일차](https://github.com/cri-kim/zero-base/blob/main/til/day20.md)
   - 정기 테스트
